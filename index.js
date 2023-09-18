@@ -12,7 +12,7 @@
 // Nezapomeňte na zaokrouhlování, ať nám cena vyjde v celých centech.
 // Nakonec spočtenou cenu vypište s nějakou hezkou zprávou na výstup.
 
-const userAge = Number(prompt('Zadej svůj věk.'));
+const userAge = Number(prompt('Zadejte svůj věk.'));
 const fullPrice = 12;
 
 let price = '';
